@@ -32,9 +32,8 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 
-# TODO => put env under this line !!!
+.env*
 
-.env
 
 
 # vercel
